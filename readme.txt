@@ -6,11 +6,11 @@ Tested up to: 3.3.2
 Stable tag: 1.0
 Donate link: http://www.akm3.de/
 
-This plugin evaluates a hook in the modified Textbroker Wordpress plugin (xxx) to automatically highlight the SEO-keywords as bold and push them to All-in-One SEO post_meta entry 
+This plugin evaluates a hook in the modified Textbroker Wordpress plugin (http://akmdrei.github.com/Textbroker-Wordpress-Plugin-Plus/) to automatically highlight the SEO-keywords as bold and push them to All-in-One SEO post_meta entry 
 
 == Description ==
 
-It adds filters to the modified Textbroker wordpress plugin (xxxD).
+It adds filters to the modified Textbroker wordpress plugin (http://akmdrei.github.com/Textbroker-Wordpress-Plugin-Plus/).
 
 Note that the normal plugin from Textbroker does not support hooks, so you first need to install the modified version.
 
