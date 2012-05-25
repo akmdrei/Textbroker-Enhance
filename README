@@ -1,0 +1,13 @@
+This plugin was developed by AKM3 http://www.akm3.de/
+
+
+It adds filters to the modified Textbroker wordpress plugin (https://github.com/ArneTR/Textbroker-Plugin-MOD).
+
+Note that the normal plugin from Textbroker does not support hooks, so you first need to install the modified version.
+
+These filters are:
+
+1. Enhance all SEO-Keywords from Textbroker with the HTML bold tag <b>
+
+2. If you are using the All-In-One-SEO-Pack http://wordpress.org/extend/plugins/all-in-one-seo-pack/ all SEO-Keywords from Textbroker
+will automatically be added to the HTML-Keywords field of All-In-One-SEO-Pack
