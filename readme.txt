@@ -2,7 +2,7 @@
 Contributors: WordpressAlpar, AKM3
 Tags: seo, keywords, textbroker
 Requires at least: 3.1
-Tested up to: 3.3.2
+Tested up to: 3.4.1
 Stable tag: 1.0
 Donate link: http://www.akm3.de/
 
